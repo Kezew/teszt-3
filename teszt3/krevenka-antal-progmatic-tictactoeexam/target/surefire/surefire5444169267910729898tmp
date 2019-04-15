@@ -1,0 +1,23 @@
+#surefire
+#Tue Dec 04 13:34:07 CET 2018
+testClassesDirectory=C\:\\Toncsi\\programozas\\GitGyak\\krevenka-antal-progmatic-tictactoeexam\\target\\test-classes
+forkMode=once
+classPathUrl.3=C\:\\Users\\User\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+classPathUrl.2=C\:\\Users\\User\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Toncsi\\programozas\\GitGyak\\krevenka-antal-progmatic-tictactoeexam\\target\\classes
+classPathUrl.0=C\:\\Toncsi\\programozas\\GitGyak\\krevenka-antal-progmatic-tictactoeexam\\target\\test-classes
+reportsDirectory=C\:\\Toncsi\\programozas\\GitGyak\\krevenka-antal-progmatic-tictactoeexam\\target\\surefire-reports
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Toncsi\\programozas\\GitGyak\\krevenka-antal-progmatic-tictactoeexam\\src\\test\\java
+requestedTest=com.progmatic.tictactoeexam.interfaces.TicTacToeTest
+surefireClassPathUrl.1=C\:\\Users\\User\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\User\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.10\\surefire-junit4-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+isTrimStackTrace=true
+enableAssertions=true
+requestedTestMethod=testEmptyCells
+failIfNoTests=true
+includes0=**/com/progmatic/tictactoeexam/interfaces/TicTacToeTest.java
+childDelegation=false
